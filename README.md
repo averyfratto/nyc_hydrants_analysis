@@ -541,17 +541,17 @@ How much of the above 10 neighborhoods are wtihin 100 ft of a hydrant when using
 </table>
 </div>
 
-![Hydrant Density by Neighborhood Area](starter-repo/images/HydrantDensitybyBuildingArea.png)
+![Hydrant Density by Neighborhood Area](images/HydrantDensitybyBuildingArea.png)
 
-![Hydrant Density by Neighborhood Building Count](starter-repo/images/Hydrant2Building.png)
+![Hydrant Density by Neighborhood Building Count](images/Hydrant2Building.png)
 
-![Hydrant Density by Neighborhood Building Area](starter-repo/images/HydrantDensitybyBuildingArea.png)
+![Hydrant Density by Neighborhood Building Area](images/HydrantDensitybyBuildingArea.png)
 
-![Hydrant Density by Neighborhood Area: Interactive Map](starter-repo/images/InteractiveScreenshot1.png)
+![Hydrant Density by Neighborhood Area: Interactive Map](images/InteractiveScreenshot1.png)
 
-![Hydrant Density by Neighborhood Building Count: Interactive Map](starter-repo/images/InteractiveMap2.png)
+![Hydrant Density by Neighborhood Building Count: Interactive Map](images/InteractiveMap2.png)
 
-![Hydrant Density by Neighborhood Building Area: Interactive Map](starter-repo/images/InteractiveMap3.png)
+![Hydrant Density by Neighborhood Building Area: Interactive Map](images/InteractiveMap3.png)
 
 ## How to run it
 
