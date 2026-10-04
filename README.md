@@ -304,20 +304,7 @@ Neighborhoods with the highest hydrant to building ratio:
 </div>
 
 Neighborhoods with the highest 100 ft hydrant buffer coverage:
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -393,20 +380,7 @@ Neighborhoods with the highest 100 ft hydrant buffer coverage:
 </div>
 
 How much of the above 10 neighborhoods are wtihin 100 ft of a hydrant when using the building footprint square footage?
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
